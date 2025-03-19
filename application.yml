@@ -1,0 +1,6 @@
+server:
+  port: 0  # Allows services to use different ports
+
+spring:
+  application:
+    name: application-config
